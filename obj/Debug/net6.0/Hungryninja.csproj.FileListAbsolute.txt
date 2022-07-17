@@ -1,0 +1,15 @@
+C:\Users\Point\Desktop\cs2022\Hungryninja\obj\Debug\net6.0\Hungryninja.csproj.AssemblyReference.cache
+C:\Users\Point\Desktop\cs2022\Hungryninja\obj\Debug\net6.0\Hungryninja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Point\Desktop\cs2022\Hungryninja\obj\Debug\net6.0\Hungryninja.AssemblyInfoInputs.cache
+C:\Users\Point\Desktop\cs2022\Hungryninja\obj\Debug\net6.0\Hungryninja.AssemblyInfo.cs
+C:\Users\Point\Desktop\cs2022\Hungryninja\obj\Debug\net6.0\Hungryninja.csproj.CoreCompileInputs.cache
+C:\Users\Point\Desktop\cs2022\Hungryninja\bin\Debug\net6.0\Hungryninja.exe
+C:\Users\Point\Desktop\cs2022\Hungryninja\bin\Debug\net6.0\Hungryninja.deps.json
+C:\Users\Point\Desktop\cs2022\Hungryninja\bin\Debug\net6.0\Hungryninja.runtimeconfig.json
+C:\Users\Point\Desktop\cs2022\Hungryninja\bin\Debug\net6.0\Hungryninja.dll
+C:\Users\Point\Desktop\cs2022\Hungryninja\bin\Debug\net6.0\Hungryninja.pdb
+C:\Users\Point\Desktop\cs2022\Hungryninja\obj\Debug\net6.0\Hungryninja.dll
+C:\Users\Point\Desktop\cs2022\Hungryninja\obj\Debug\net6.0\refint\Hungryninja.dll
+C:\Users\Point\Desktop\cs2022\Hungryninja\obj\Debug\net6.0\Hungryninja.pdb
+C:\Users\Point\Desktop\cs2022\Hungryninja\obj\Debug\net6.0\Hungryninja.genruntimeconfig.cache
+C:\Users\Point\Desktop\cs2022\Hungryninja\obj\Debug\net6.0\ref\Hungryninja.dll
